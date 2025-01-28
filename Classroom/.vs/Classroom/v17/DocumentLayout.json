@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\asus\\desktop\\yeni klas\u00F6r\\classroom (1)\\classroom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\views\\hello\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\hello\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\controllers\\classroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:controllers\\classroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\models\\class_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:models\\class_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\views\\homework\\homeworklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\homework\\homeworklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\controllers\\homeworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:controllers\\homeworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T20:39:21.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Views\\Hello\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hello\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Views\\Hello\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Hello\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T20:28:32.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:33:07.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T18:26:55.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T19:03:40.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T19:03:18.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T19:04:09.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:02:25.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class_User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Models\\Class_User.cs",
+              "RelativeDocumentMoniker": "Models\\Class_User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Models\\Class_User.cs",
+              "RelativeToolTip": "Models\\Class_User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:31:23.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeworkList.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Views\\Homework\\HomeworkList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Homework\\HomeworkList.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Views\\Homework\\HomeworkList.cshtml",
+              "RelativeToolTip": "Views\\Homework\\HomeworkList.cshtml",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAFgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T13:44:29.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeworkController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Controllers\\HomeworkController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeworkController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Controllers\\HomeworkController.cs*",
+              "RelativeToolTip": "Controllers\\HomeworkController.cs*",
+              "ViewState": "AQIAACsBAAAAAAAAAAAAwD4BAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:22:07.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClassroomController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Controllers\\ClassroomController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClassroomController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Yeni klas\u00F6r\\Classroom (1)\\Classroom\\Controllers\\ClassroomController.cs",
+              "RelativeToolTip": "Controllers\\ClassroomController.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAAAFsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:08:53.315Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
